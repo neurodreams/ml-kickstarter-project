@@ -57,8 +57,6 @@ git clone git@github.com:neurodreams/ml-kickstarter-project.git
 Dataset source (Sample available only):
 [original dataset source](https://www.kaggle.com/datasets/domingosun/kickstarter-dataset-629147-projects-may-2025)
 
-Download data (Full version):
-[full data](https://edukainuu-my.sharepoint.com/:x:/r/personal/kimerkkila_kamk_fi/Documents/Datoja/Kickstarter%20Projects_629147_Full_May%202025.csv)
 
 Download the dataset, name it "raw_data.csv" and place the CSV file here:
 ```bash
