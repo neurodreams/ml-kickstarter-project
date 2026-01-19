@@ -3,16 +3,13 @@
 This project is a Python-based machine learning project that predicts the probability of success for Kickstarter projects.
 The project combines data preprocessing, feature engineering, model evaluation and a Streamlit-based user interface into a single end-to-end application.
 
-### Project documentation:
-https://pages.dclabra.fi/catgpt-66b79c/
-
 ---
 
 ## Team: CatGPT
 
 This project was developed as a team project as part of ICT engineering studies.
 
-- Kim Erkkilä - Project Owner, Developer  
+- [Kim Erkkilä](https://github.com/Kimerkki) - Project Owner, Developer  
 - Sara Pyky - Project Owner, Developer  
 - Valtteri Mikkola - Scrum Master, Developer  
 - Niko Kyllönen - Scrum Master, Developer  
@@ -52,7 +49,7 @@ The Streamlit application depends on a processed dataset used for model evaluati
 ### 1. Clone the repository with SSH
 
 ```bash
-git clone git@gitlab.dclabra.fi:ttm-projekti-2-ml-2025/catgpt/catgpt.git
+git clone git@github.com:neurodreams/ml-kickstarter-project.git
 ```
 
 ### 2. Download the dataset
